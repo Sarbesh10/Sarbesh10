@@ -8,11 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarbesh10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="160" alt="languages graph"  />
 </div>
 
-###
-
-<img align="left" height="160" src="https://imgflip.com/gif/84b8zb"  />
-
-###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
