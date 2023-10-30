@@ -8,38 +8,39 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sarbesh10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dark&hide_border=true" height="160" alt="languages graph"  />
 </div>
 
+###
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=ai" height="40" alt="adobeillustrator logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=xd" height="40" alt="xd logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=bootstrap" height="40" alt="bootstrap logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="40" alt="wordpress logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=webflow" height="40" alt="webflow logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=materialui" height="40" alt="materialui logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="16" />
+  <img width="14" />
   <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
 </div>
 
@@ -58,3 +59,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/Sarbesh10/Sarbesh10/output/snake.svg" alt="Snake animation" />
+
+###
